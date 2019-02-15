@@ -1,4 +1,4 @@
-# datascience_training & some quotes
+# datascience_training, some quotes and lovely analogies
 
 ## OOP
 a class is like a form or questionnaire. It defines the needed information. After you fill out the form, your specific copy is an instance of the class; it contains actual information relevant to you. 
